@@ -1,5 +1,6 @@
 title: Zephyr Tutorial
 remote_theme: bedroesb/just-the-docs
+source: ./
 
 plugins:
   - jekyll-relative-links
